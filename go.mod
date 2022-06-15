@@ -1,4 +1,4 @@
-module andang_usbkey
+module github.com/Zone16/andang_usbkey
 
 go 1.17
 
